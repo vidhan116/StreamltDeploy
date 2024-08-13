@@ -3,3 +3,4 @@ numpy
 streamlit
 openpyxl
 streamlit_authenticator
+firebase_admin

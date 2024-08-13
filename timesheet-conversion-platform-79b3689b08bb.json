@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "timesheet-conversion-platform",
+  "private_key_id": "79b3689b08bbc4644f4b31661060709492847cd9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDIrse1YDMg+IXW\nxE7QPu2+4L1NIz0YKMuw+4g6Hv8Jh4UUB3GUo/1deVSdwis3d+uDNaNeJqSHrNc+\nROmX/N57+cqIkKOI3vW9gjTvWWT2rTuINGQR784RNHco2T6Sltx2pegP1F7G7meb\n1spcU+FokGLjpY1wBHZPZyJdyTMj/lrZhLInJy0QuGwX6Xodr4XiimiPjGT06JJu\nmX25bhEhcqPO3pltmoJJlySIVyYquhy35fBH77tomnNZpQaJMEFNYpW0neoCrpy0\nhk5WGSni8AQ6rgu6i8z3OImSS7VAK8AHQhg2XV9Vdo1qNYJ14lCccOV7FsrXQtVe\nuotMN3ZfAgMBAAECggEAHJCG4Uc8dStKtE4kQGSkpzBgDDRsLsh9GHJFFVjHc84e\ntWzLJZ14o9nFnzWTEdsiN6k72VvmEWBwZsRHp5hDpsvgSzNN7l57W1UcPxwEpflJ\nvv0OErYv06fEdO5Z3LhX0Go/BM8gCnAcE++CcEU0PBOehR6nFNRdxAw/ClsSyhgv\nufwGH7lqat5AkoRwml/5UA3yH1AbeSUVCD4bK9/4u3KP9foM02bla3UK3vRREAMh\nnibWZsD5040GZKDcoDjFU79RzK0DiDkN8g5loIFlJY9113+NOBa7+pG63QyvsdfC\nE9TtRclIr+axq5avesgNMpkVDEXjetWqOt2WQJo8gQKBgQD8bUmLLCTwDXKSf+Sf\nqC/XfyewGt4oQqOgFt6wgFIK0BIJ3GZ0Pbj8EEztZEou7F4bfinUU3uHgk48j3Bc\n2Lo72ll3tgdC4EnNYpXkuyq1EZode+yDd0my8xkpLcrc4HnBp4tjZH3MyrAYZpTv\n7yo61UJ13XIUtyMDoH6/E65znwKBgQDLhf0lUpC/Uu5zCRW8n8OMP33rzd/E2DxO\nakS2Bl9A0MB1ahzPcRyyaCsrBSdNPeWNLa8RTxkMNhkBpEpYX2H4/oMUD2XmFS1v\nEHfmRgV49CdPV3w8kyye7xAymt8jXvN3Ye1l3T88X9DoDHHvawX86jgBT8CCVE7r\nWfX86xYFQQKBgQDDpEh9z0cJrsJ//RPLEmWSFgFConBQr+V1rIQINExiCQYSEnpt\n2XDIHDIjQ7mjSJtfn5b384QocLwGf/3MWEVvIjp5Z+GU2ZUZ1DDsyIu/LtdNxsB2\n3DuIsJVtrwotyuVTTHHiJP7DfMyi/M6ub6VBWAxcobdLiu1eYEQcADsTbQKBgB6R\n/bhBcqSKXG7DCpTOmpzSXKOyxM3YfRZ6N9/vjRc7Q+1fBvzRzLGvm+xWVdTwWy6d\nkhJTgzumVJM+jjw/94NjF2VH+tJYk/5+xsO7+M52PgFY7rxajvVAi3pOcP3rIT7p\nYrNOTFVRPxvb4rFHrhqTQ95OkGgDKeeIF77pwOEBAoGBAPO0w6XBz+59bI8LIQvU\n/kG2Ii1eOfeAt4K752dThcUyQ7uxc3lAVGUGRphAweIOYTQbG6QgedaoaZ+pwInn\nVLJoei9cYuCyyd7hzX/3s+uGtpZwURMWqVwDcISvQrYkJQ854L5h4iPNsizthWtE\ne3FT1sMfsU/Awu+w9pnA1zw4\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-931at@timesheet-conversion-platform.iam.gserviceaccount.com",
+  "client_id": "106543125355843617760",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-931at%40timesheet-conversion-platform.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
